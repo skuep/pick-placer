@@ -53,6 +53,7 @@
     )
     (pad_to_mask_clearance 0)
     (aux_axis_origin 100 100)
+    (grid_origin 100 100)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
