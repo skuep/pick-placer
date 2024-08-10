@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0603_1608Metric,7.75,3.5,-90.0,top
+C2,100n,C_0603_1608Metric,-7.75,3.5,-90.0,top
+C3,4.7u/16V,C_0603_1608Metric,4.5,3.5,-90.0,top
+C4,1uF/50V,C_0805_2012Metric,-2.25,3.5,-90.0,top
+C5,1n,C_0603_1608Metric,-7.75,-4.0,-90.0,top
+C6,1n,C_0603_1608Metric,7.75,-3.8375,-90.0,top
+J1,Conn_01x04,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,0.0,-2.0,0.0,top
+R1,10R,R_0805_2012Metric,-4.5,3.5,-90.0,top
+R2,10R,R_0805_2012Metric,-7.75,-0.75,-90.0,top
+R3,10R,R_0805_2012Metric,7.75,-0.5875,-90.0,top
+U1,XGZP6857A100KPGPN,XGZP6857A,-13.0,-0.0,-90.0,top
+U2,XGZP6857A100KPGPN,XGZP6857A,13.0,-0.0,-90.0,top
+U3,MIC5233-5.0YM5-TR,SOT-23-5,1.25,3.5,0.0,top
