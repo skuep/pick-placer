@@ -1,6 +1,6 @@
 (footprint "XGZP6857A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 66B7B65D)
+  (tedit 66F2CF78)
   (attr through_hole)
   (fp_text reference "**REF" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -32,6 +32,6 @@
   (model "${KIPRJMOD}/library/Project.3dshapes/XGZP6857A.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz -90 0 180))
   )
 )
