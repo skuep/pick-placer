@@ -11,11 +11,12 @@ This is a mix of multiple projects:
 - LumenPnP
   - Basic Idea and Toolhead Design
   - Valves, 260mm Belt, Nema 11 Rotation Motors (later switched to Juki style from Robotdigg)
-  - Cameras & ring-lights
+  - Cameras (ELP 720P USB kamera modul CMOS OV9712 mit 6mm Fokus) & ring-lights (slightly modified)
   - Staging plate (modified to measure 90x470)
-  - Photon feeder support
-  - Datum board & mount
-
+  - Photon feeder support (mechanical, not tested)
+  - Datum board & mount (modified)
+  - Toolhead Linear Rails
+  
 - Voron Trident 350mm
   - Frame Kit (plus a few uncritical saw cuts and blind joint holes using jigs) and Panels
   - X/Y Motors, Belts, MGN12 and MGN9 Rails for X/Y
@@ -32,8 +33,8 @@ This is a mix of multiple projects:
 Other Parts used:
 - Festo CRVZS-0,4 (Used on ebay)
 - MGN9C 100mm Rails (CNA on AliExpress)
-- Nema17 stepper motor with 20mm thickness (Stepper-Online)
+- Nema17 stepper motor with 20mm thickness (Stepper-Online) for Toolhead
 - 500mm length extrusions with V groove for LumenPnP feeder compatibility
 
 
-Mechanically compatible to LumenPnP feeders
+
