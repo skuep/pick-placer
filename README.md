@@ -20,7 +20,7 @@ This is a mix of multiple projects:
 - Voron Trident 350mm
   - Frame Kit (plus a few uncritical saw cuts and blind joint holes using jigs) and Panels
   - X/Y Motors, Belts, MGN12 and MGN9 Rails for X/Y
-  - Nema14 stepper motor (17HS08-1004S)
+  - Nema14 stepper motor (~~17HS08-1004S~~ 17HS19-2004S1)
   - Split toolhead carriage design and XY joint design
   - X/Y Drag Chains
   - Idlers (BFI)
