@@ -35,6 +35,6 @@ Other Parts used:
 - MGN9C 100mm Rails (CNA on AliExpress)
 - Nema17 stepper motor with 20mm thickness (Stepper-Online) for Toolhead
 - 500mm length extrusions with V groove for LumenPnP feeder compatibility
-
+- 32 Teeth pulleys
 
 
